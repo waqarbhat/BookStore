@@ -1,3 +1,5 @@
+//MVC Architecture is preseved manually
+
 <?php
     function customPageHeader(){
         echo '<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">';        
